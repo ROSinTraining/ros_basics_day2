@@ -5,7 +5,7 @@ from std_msgs.msg import String
 
 def main():
     # node initialization
-    rospy.init_node (" pub ")
+    rospy.init_node ("pub")
     # definitions of variables
     msg_string = String ()
     # definitions of functions

@@ -11,11 +11,11 @@ def callback ( msg ):
 
 def main():
     # node initialization
-    rospy.init_node(" sub ")
+    rospy.init_node("sub")
     rospy.Subscriber('first_topic', String , callback )
     # main program
     # endless loop till shut down
     rospy.spin ()
 
-if __name__ = '__main__':
+if __name__ == '__main__':
     main()
