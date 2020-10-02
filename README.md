@@ -1,4 +1,4 @@
-# ros_basics_day1
+# ros_basics_day2
 
 ## Acknowledgement
 <a href="http://rosin-project.eu">
