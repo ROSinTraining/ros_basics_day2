@@ -1,0 +1,5 @@
+<? xml version = "1.0"?>
+
+<launch>
+    <node pkg="first_python_node" type= "myfirstnode.py" name="my_first_node" />
+</launch>
